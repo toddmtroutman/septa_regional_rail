@@ -1,0 +1,9 @@
+septa_regional_rail:
+  description: "Service for SEPTA Regional Rail"
+  fields:
+    station:
+      description: "Station name (e.g., '30th St')"
+      example: "30th St"
+    results:
+      description: "Number of results to fetch"
+      example: 5

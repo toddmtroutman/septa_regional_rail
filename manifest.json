@@ -1,0 +1,12 @@
+{
+    "domain": "septa_regional_rail",
+    "name": "SEPTA Regional Rail",
+    "version": "1.0",
+    "documentation": "https://github.com/yourusername/septa_regional_rail",
+    "dependencies": [],
+    "codeowners": ["@yourusername"],
+    "requirements": [],
+    "config_flow": true,
+    "iot_class": "cloud_polling"
+  }
+  
